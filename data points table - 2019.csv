@@ -1,7 +1,8 @@
 CITY,Total Population Under 18, Total Population Under 18, Total Population of 18+, Total Population of 18+, Total Population of 18+, Per Capita Income, Median Household Income, Total Civilian Labor Force, Employed Health Insurance Coverage Ages 19-64, Renter-Occupied Housing Units, Median Rent for Occupied Housing Units, Estimate of Owner-Occupied Housing Units Without a Mortgage, Median Housing Cost, Total Population Estimate, Total Male Population Estimate, Total Male Population Estimate, Estimate of Foreign-Born Population, Estimate of Foreign-Born Population, Estimate of Ages Above 25 Years With a High School Degree, Estimate of Ages Above 25 Years With a High School Degree, Estimate of Ages Above 25 Years With a High School Degree, % Workers Taking Taxi to Work, Estimate of Population >25 With a Graduate Degree, Estimate of Population >25 With a Graduate Degree, Estimate of Voting Age Population, Estimate of Voting Age Population, Estimate of Homes Using Electric Heat, Estimate of Homes Using Gas, Estimate of Male Citizen Voting Population, Estimate of Total Households With Computers and Internet
-
-CATEGORY,Social,Economic,Political,Social,Economic,Economic,Economic,Economic,Economic,Social,Social,Social,Economic,Political,Social,Political,Social,Political,Social,Political,Social,Economic,Political,Social,Political,Social,Environmental,Environmental,Political,Political
-
+NAME,"
+DP05_0019E","
+DP05_0019E",DP05_0025E,DP05_0025E,DP05_0025E,DP03_0088E,DP03_0062E,DP03_0008PE,DP03_0107E,DP04_0047E,DP04_0134E,DP04_0092E,DP04_0089E,DP05_0001E,DP05_0002E,DP05_0002E,DP02_0103E,DP02_0103E,DP02_0061E,DP02_0061E,DP02_0061E,DP03_0021PE,DP02_0065E,DP02_0065E,DP05_0087E,DP05_0087E,DP04_0065E,DP04_0063E,DP05_0088E,DP02_0150PE
+CATEGORY,Social,Economic,Political,Social,Economic,Economic,Economic,Economic,Economic,Social,Social,Economic,Social,Social,Political,Social,Political,Social,Political,Social,Economic,Environmental,Political,Social,Political,Social,Environmental,Environmental,Political,Political
 "Houston-The Woodlands-Sugar Land, TX Metro Area",15274,15274,59787,59787,59787,31000,61026,33088,4034,8256,2.17,857,12609,9055,220600,75061,75061,37879,37879,3634,3634,2414,2414,2414,6307,6307,57698,57698,21321,2497,29248,0.1
 "Huntington-Ashland, WV-KY-OH Metro Area",41350,41350,130445,130445,130445,26603,54808,77557,4678,24309,2.45,887,18479,18962,133500,171795,171795,86747,86747,6304,6304,7054,7054,7054,17779,17779,126358,126358,,,63188,0.6
 "Huntsville, AL Metro Area",20522,20522,77929,77929,77929,28046,53865,46582,5156,9651,2.29,760,16870,11978,144300,98451,98451,49744,49744,,,5024,5024,5024,9466,9466,76326,76326,3008,27694,38605,0
@@ -522,6 +523,7 @@ CATEGORY,Social,Economic,Political,Social,Economic,Economic,Economic,Economic,Ec
 "Marinette, WI-MI Micro Area",18568,18568,67647,67647,67647,25844,51844,39717,5177,9731,2.37,744,13547,10064,131700,86215,86215,42589,42589,,,6026,6026,6026,6334,6334,67530,67530,9361,18225,33042,0
 
 "Marion, IN Micro Area",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
 
 
 
