@@ -1,4 +1,5 @@
-CITY,%Total population 65-74,%Total population 65-74,%Total population 65-74,% 16+ Yrs not in labor force,Percetage of Labor force with Public Health Insurance,Percent of population Employed health insurance coverage ages 19-64,Average Household Size Renters,% of Owner Occupied Housing Units,"%homes using oil, Kerosene for heat energy",%homes using coal for heat energy,%homes with no heat,%homes using wood for heat energy,%homes using solar energy,%workers carpooling,% homes heating with coal,%foriegn born,%foriegn born,%homes heating with wood,%workers taking taxi to work,%workers taking taxi to work
+CITY,Total Population 65-74 %,Total Population 65-74 %,Total Population 65-74 %,16+ Yrs Not in Labor Force %,Percetage of Labor Force with Public Health Insurance,Percent of Population Employed Health Insurance Coverage Ages 19-64,of Owner Occupied Housing Units %,"Homes Using Oil, Kerosene for Heat Energy %",Homes Using Coal for Heat Energy %,Homes with No Heat %,Homes Using Wood for Heat Energy %,Homes Using Solar Energy %,Workers Carpooling %,Homes Heating with Coal %,Foriegn Born %,Foriegn Born %,Homes Heating with Wood %,Workers Taking Taxi to Work %,Workers Taking Taxi to Work %.
+
 NAME,DP05_0015PE,DP05_0015PE,DP05_0015PE,DP03_0007PE,DP03_0112PE,DP03_0107PE,DP04_0049E,DP04_0046PE,DP04_0066PE,DP04_0067E,DP04_0071PE,DP04_0068E,DP04_0069E,DP03_0020PE,DP04_0067PE,DP02_0095PE,DP02_0095PE,DP04_0068PE,DP03_0021PE,DP03_0021PE
 CATEGORY,Social,Political,Economic,Economic,Economic,Economic,Social,Social,Envronmental,Environmental,Environmental,Environmental,Environmental,Environmental,Environmental,Political,Social,Environmental,Environmental,Social
 "Houston-The Woodlands-Sugar Land, TX Metro Area",14.1,14.1,14.1,46.2,54.6,14.4,2.17,72.4,1.4,49,0.8,3521,0,10.1,0.2,42.8,42.8,11.8,1.9,1.9
@@ -519,4 +520,5 @@ CATEGORY,Social,Political,Economic,Economic,Economic,Economic,Social,Social,Envr
 "Mankato-North Mankato, MN Metro Area",8.3,8.3,8.3,42.3,60.4,24.5,2.83,61,0.2,0,1.2,2625,1443,13.9,0,57.4,57.4,4.4,1.2,1.2
 "Mansfield, OH Metro Area",9.3,9.3,9.3,44.7,41.5,20.6,2.79,66.3,0.1,0,7.9,0,539,12.9,0,46.6,46.6,0,0.5,0.5
 "Marinette, WI-MI Micro Area",10.6,10.6,10.6,42.6,39.9,15.4,2.37,70.8,5.9,0,0.3,1429,0,6.1,0,,,4.3,0.2,0.2
+
 "Marion, IN Micro Area",,,,,,,,,,,,,,,,,,,,
