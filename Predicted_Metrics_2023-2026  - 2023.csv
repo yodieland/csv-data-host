@@ -1,4 +1,4 @@
-CITY,Year,%homes heating with wood,% 16+ Yrs not in labor force,%workers taking taxi to work,%Total population 65-74,% of Owner Occupied Housing Units,%homes using solar energy,%homes with no heat,% homes heating with coal,%foriegn born,%workers carpooling,%homes using coal for heat energy,Percent of population Employed health insurance coverage ages 19-64,%homes using wood for heat energy,"%homes using oil, Kerosene for heat energy",Percetage of Labor force with Public Health Insurance
+CITY,Year,Homes Heating with Wood (%), Population Ages 16+ Not in Labor Force (%), Workers Commuting by Taxi (%), Population Ages 65–74 (%), Owner-Occupied Housing Units (%), Homes Using Solar Energy (%), Homes with No Heat (%), Homes Heating with Coal (%), Foreign-Born Population (%), Workers Carpooling (%), Homes Using Coal for Heat Energy (%), Population Ages 19–64 with Employer Health Insurance (%), Homes Using Wood for Heat Energy (%), Homes Using Oil/Kerosene for Heat Energy (%), Labor Force with Public Health Insurance (%)
 "Peoria, IL Metro Area",2023,1.68,43.77,1.13,15.78,74.08,100.00,0.99,0.05,100.00,6.98,27.75,10.62,100.00,2.45,15.03
 "Aberdeen, WA Micro Area",2023,1.08,37.27,0.38,12.50,71.10,100.00,0.60,0.00,100.00,11.65,0.00,8.13,100.00,14.42,41.48
 "Birmingham-Hoover, AL Metro Area",2023,1.63,31.22,1.00,10.23,64.65,100.00,0.48,0.00,100.00,6.82,0.00,11.93,100.00,4.93,37.08
@@ -517,4 +517,5 @@ CITY,Year,%homes heating with wood,% 16+ Yrs not in labor force,%workers taking 
 "Salem, OR Metro Area",2023,0.72,40.30,0.18,12.33,71.03,100.00,0.75,0.28,100.00,8.40,100.00,12.60,100.00,2.90,44.70
 "Mankato-North Mankato, MN Metro Area",2023,2.30,48.71,0.24,10.94,68.87,100.00,1.64,0.16,100.00,12.68,100.00,28.79,100.00,2.36,72.04
 "Saginaw, MI Metro Area",2023,0.00,45.02,0.85,15.65,77.47,0.00,1.04,0.02,100.00,8.00,50.17,12.85,0.00,0.13,53.63
+
 "Fort Wayne, IN Metro Area",2023,0.00,35.52,0.37,11.27,70.43,0.00,0.42,0.00,100.00,8.13,0.00,9.97,0.00,0.80,34.15
